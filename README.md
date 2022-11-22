@@ -14,7 +14,7 @@ Meu foco atual é em Fullstack
 
 ### Conecta com o pai:
 
-<a href="https://www.linkedin.com/in/rafael-sibien-998923217/" target="_blank">
+<a href="www.linkedin.com/in/rafaelsibien" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a>
   
