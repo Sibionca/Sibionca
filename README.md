@@ -8,7 +8,6 @@ Funcionário da AEVO
 
 Meu foco atual é em Fullstack
 <div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sibionca&show_icons=true&theme=tokyonight" />
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibionca&layout=compact&theme=tokyonight" />
 </div>
 
