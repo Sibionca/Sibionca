@@ -4,8 +4,6 @@ Eu sou Rafael Sibien (Sibionça)
 
 Analista Desenvolvedor de Sistemas
 
-AEVO Team
-
 Meu foco atual é em Fullstack
 <!--<div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibionca&layout=compact&theme=tokyonight" />
